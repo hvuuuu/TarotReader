@@ -1,0 +1,3044 @@
+[
+  {
+    "id": "1",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Fool",
+      "vi": "Chàng Khờ"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "spontaneity",
+          "fresh perspective",
+          "leaps of faith",
+          "beginner's mindset"
+        ],
+        "vi": [
+          "sự hồn nhiên",
+          "góc nhìn mới",
+          "dấn thân",
+          "tâm thế khởi đầu"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "recklessness",
+          "hesitation",
+          "fear of the unknown",
+          "impulsivity"
+        ],
+        "vi": [
+          "sự liều lĩnh",
+          "sự do dự",
+          "nỗi sợ điều chưa biết",
+          "bốc đồng"
+        ]
+      }
+    }
+  },
+  {
+    "id": "2",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Magician",
+      "vi": "Ảo Thuật Gia"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "resourcefulness",
+          "agency",
+          "creative focus",
+          "manifestation"
+        ],
+        "vi": [
+          "sự tháo vát",
+          "tính chủ động",
+          "tập trung sáng tạo",
+          "hiện thực hóa"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "self-doubt",
+          "scattered energy",
+          "latent potential",
+          "manipulation"
+        ],
+        "vi": [
+          "nghi ngờ bản thân",
+          "năng lượng phân tán",
+          "tiềm năng chưa mở",
+          "sự thao túng"
+        ]
+      }
+    }
+  },
+  {
+    "id": "3",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The High Priestess",
+      "vi": "Nữ Đại Tư Tế"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "intuition",
+          "subconscious insights",
+          "inner stillness",
+          "sacred knowledge"
+        ],
+        "vi": [
+          "trực giác",
+          "thấu suốt nội tâm",
+          "sự tĩnh lặng",
+          "tri thức tiềm thức"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "repressed feelings",
+          "ignoring instincts",
+          "surface judgment",
+          "inner dissonance"
+        ],
+        "vi": [
+          "cảm xúc kìm nén",
+          "phớt lờ trực giác",
+          "nhìn nhận hời hợt",
+          "bất an nội tâm"
+        ]
+      }
+    }
+  },
+  {
+    "id": "4",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Empress",
+      "vi": "Hoàng Hậu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "nurturing",
+          "creative abundance",
+          "sensory connection",
+          "self-care"
+        ],
+        "vi": [
+          "sự nuôi dưỡng",
+          "sáng tạo dồi dào",
+          "kết nối giác quan",
+          "chăm sóc bản thân"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "emotional burnout",
+          "creative block",
+          "over-dependence",
+          "neglecting self"
+        ],
+        "vi": [
+          "kiệt sức cảm xúc",
+          "bế tắc sáng tạo",
+          "lệ thuộc",
+          "bỏ quên chính mình"
+        ]
+      }
+    }
+  },
+  {
+    "id": "5",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Emperor",
+      "vi": "Hoàng Đế"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "structure",
+          "personal boundaries",
+          "self-discipline",
+          "strategic leadership"
+        ],
+        "vi": [
+          "tính trật tự",
+          "thiết lập ranh giới",
+          "kỷ luật bản thân",
+          "tư duy chiến lược"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "rigidity",
+          "loss of control",
+          "excessive micromanagement",
+          "inflexibility"
+        ],
+        "vi": [
+          "sự cứng nhắc",
+          "mất phương hướng kiểm soát",
+          "áp đặt vi mô",
+          "thiếu linh hoạt"
+        ]
+      }
+    }
+  },
+  {
+    "id": "6",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Hierophant",
+      "vi": "Đại Giáo Hoàng"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "shared values",
+          "mentorship",
+          "cultural wisdom",
+          "belief systems"
+        ],
+        "vi": [
+          "hệ giá trị chung",
+          "người dẫn dắt",
+          "trí tuệ truyền thống",
+          "niềm tin cốt lõi"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "dogma questioning",
+          "unconventional path",
+          "personal philosophy",
+          "rebellion against conformity"
+        ],
+        "vi": [
+          "chất vấn giáo điều",
+          "lối đi riêng",
+          "triết lý cá nhân",
+          "thoát khỏi khuôn mẫu"
+        ]
+      }
+    }
+  },
+  {
+    "id": "7",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Lovers",
+      "vi": "Đôi Tình Nhân"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "core values alignment",
+          "conscious choices",
+          "interpersonal harmony",
+          "vulnerability"
+        ],
+        "vi": [
+          "hòa hợp giá trị",
+          "lựa chọn tỉnh thức",
+          "sự gắn kết chân thật",
+          "mở lòng"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "value conflict",
+          "indecision",
+          "inner friction",
+          "people-pleasing"
+        ],
+        "vi": [
+          "mâu thuẫn giá trị",
+          "do dự lưỡng lự",
+          "xung đột nội tâm",
+          "cố làm hài lòng người khác"
+        ]
+      }
+    }
+  },
+  {
+    "id": "8",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Chariot",
+      "vi": "Chiến Xa"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "directed willpower",
+          "overcoming obstacles",
+          "focus",
+          "inner drive"
+        ],
+        "vi": [
+          "ý chí định hướng",
+          "vượt chướng ngại",
+          "tập trung cao độ",
+          "động lực nội sinh"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "loss of direction",
+          "inner conflict",
+          "feeling overwhelmed",
+          "burnout from pressure"
+        ],
+        "vi": [
+          "lạc phương hướng",
+          "xung đột động lực",
+          "áp lực quá tải",
+          "đuối sức vì nóng vội"
+        ]
+      }
+    }
+  },
+  {
+    "id": "9",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "Strength",
+      "vi": "Sức Mạnh"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "emotional resilience",
+          "compassion",
+          "gentle courage",
+          "patience with self"
+        ],
+        "vi": [
+          "sức bền cảm xúc",
+          "lòng trắc ẩn",
+          "can đảm dịu dàng",
+          "kiên nhẫn với chính mình"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "self-doubt",
+          "reactivity",
+          "inner exhaustion",
+          "impatience"
+        ],
+        "vi": [
+          "nghi ngờ bản thân",
+          "phản ứng bốc đồng",
+          "kiệt quệ tinh thần",
+          "nóng ruột"
+        ]
+      }
+    }
+  },
+  {
+    "id": "10",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Hermit",
+      "vi": "Ẩn Sĩ"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "introspection",
+          "solitude",
+          "inner guidance",
+          "soul-searching"
+        ],
+        "vi": [
+          "tự phản chiếu",
+          "khoảng lặng tĩnh tại",
+          "soi sáng nội tâm",
+          "chiêm nghiệm"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "isolation",
+          "loneliness",
+          "withdrawing excessively",
+          "resisting advice"
+        ],
+        "vi": [
+          "cô lập tiêu cực",
+          "sự cô đơn",
+          "thu mình quá mức",
+          "từ chối lắng nghe"
+        ]
+      }
+    }
+  },
+  {
+    "id": "11",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "Wheel of Fortune",
+      "vi": "Bánh Xe Số Phận"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "cyclical change",
+          "adaptability",
+          "shifting tides",
+          "embracing impermanence"
+        ],
+        "vi": [
+          "chu kỳ biến chuyển",
+          "khả năng thích ứng",
+          "nhịp điệu thay đổi",
+          "chấp nhận vô thường"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "resisting change",
+          "illusion of control",
+          "clinging to comfort",
+          "feeling stuck"
+        ],
+        "vi": [
+          "kháng cự thay đổi",
+          "ảo tưởng kiểm soát",
+          "bám víu an toàn",
+          "cảm giác bế tắc"
+        ]
+      }
+    }
+  },
+  {
+    "id": "12",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "Justice",
+      "vi": "Công Lý"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "accountability",
+          "truth-seeking",
+          "clarity of conscience",
+          "fair assessment"
+        ],
+        "vi": [
+          "tính chịu trách nhiệm",
+          "tìm kiếm sự thật",
+          "sự liêm chính",
+          "đánh giá khách quan"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "cognitive bias",
+          "avoiding blame",
+          "rationalizing mistakes",
+          "moral confusion"
+        ],
+        "vi": [
+          "thiên kiến nhận thức",
+          "né tránh trách nhiệm",
+          "biện minh sai lầm",
+          "hoài nghi lương tâm"
+        ]
+      }
+    }
+  },
+  {
+    "id": "13",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Hanged Man",
+      "vi": "Kẻ Treo Ngược"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "new perspective",
+          "letting go of control",
+          "pause for insight",
+          "surrender"
+        ],
+        "vi": [
+          "đổi góc nhìn",
+          "buông bỏ kiểm soát",
+          "lắng đọng thấu hiểu",
+          "chấp nhận thuận theo"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "stubborn resistance",
+          "feeling martyred",
+          "procrastination",
+          "fear of change"
+        ],
+        "vi": [
+          "cố chấp",
+          "tâm lý nạn nhân",
+          "trì hoãn",
+          "ngại thay đổi"
+        ]
+      }
+    }
+  },
+  {
+    "id": "14",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "Death",
+      "vi": "Cái Chết"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "profound transition",
+          "shedding old identities",
+          "necessary endings",
+          "rebirth"
+        ],
+        "vi": [
+          "chuyển hóa sâu sắc",
+          "buông bỏ bản ngã cũ",
+          "kết thúc tất yếu",
+          "tái sinh"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "clinging to past",
+          "fear of loss",
+          "stagnation",
+          "denial of closure"
+        ],
+        "vi": [
+          "bám víu quá khứ",
+          "sợ mất mát",
+          "trì trệ",
+          "chối bỏ kết thúc"
+        ]
+      }
+    }
+  },
+  {
+    "id": "15",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "Temperance",
+      "vi": "Tiết Chế"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "emotional balance",
+          "synthesis",
+          "moderation",
+          "inner harmony"
+        ],
+        "vi": [
+          "cân bằng cảm xúc",
+          "dung hòa đối lập",
+          "sự điều độ",
+          "hài hòa nội tâm"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "extremes",
+          "impatience",
+          "inner imbalance",
+          "over-indulgence"
+        ],
+        "vi": [
+          "thái cực cực đoan",
+          "thiếu kiên nhẫn",
+          "mất cân bằng nội tâm",
+          "sa đà phóng túng"
+        ]
+      }
+    }
+  },
+  {
+    "id": "16",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Devil",
+      "vi": "Ác Quỷ"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "shadow work",
+          "unconscious patterns",
+          "attachments",
+          "self-limiting beliefs"
+        ],
+        "vi": [
+          "đối diện bóng tối nội tâm",
+          "thói quen vô thức",
+          "sự ràng buộc",
+          "niềm tin giới hạn"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "reclaiming freedom",
+          "breaking unhealthy habits",
+          "clarity of boundaries",
+          "liberation"
+        ],
+        "vi": [
+          "giải phóng bản thân",
+          "phá vỡ thói quen xấu",
+          "xác lập ranh giới",
+          "tự do tâm trí"
+        ]
+      }
+    }
+  },
+  {
+    "id": "17",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Tower",
+      "vi": "Tòa Tháp"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "breakthrough",
+          "shattering illusions",
+          "sudden realization",
+          "rebuilding truth"
+        ],
+        "vi": [
+          "sự thức tỉnh",
+          "sụp đổ ảo tưởng",
+          "giác ngộ bất ngờ",
+          "tái thiết trên nền thật"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "fear of collapse",
+          "prolonging unavoidable end",
+          "suppressed upheaval",
+          "resistance to revelation"
+        ],
+        "vi": [
+          "sợ sụp đổ",
+          "kéo dài điều tất yếu",
+          "kìm nén biến động",
+          "chối bỏ sự thật"
+        ]
+      }
+    }
+  },
+  {
+    "id": "18",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Star",
+      "vi": "Ngôi Sao"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "hope",
+          "inner peace",
+          "renewed inspiration",
+          "faith in healing"
+        ],
+        "vi": [
+          "hy vọng",
+          "bình yên nội tại",
+          "nguồn cảm hứng mới",
+          "niềm tin chữa lành"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "disillusionment",
+          "loss of optimism",
+          "cynicism",
+          "need for self-compassion"
+        ],
+        "vi": [
+          "vỡ mộng",
+          "mất đi lạc quan",
+          "hoài nghi cay đắng",
+          "cần thương lấy mình"
+        ]
+      }
+    }
+  },
+  {
+    "id": "19",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Moon",
+      "vi": "Mặt Trăng"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "unconscious fears",
+          "vivid dreams",
+          "navigating uncertainty",
+          "emotional depths"
+        ],
+        "vi": [
+          "nỗi sợ vô thức",
+          "giấc mơ trực cảm",
+          "bước qua mơ hồ",
+          "chiều sâu cảm xúc"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "clearing confusion",
+          "facing anxieties",
+          "unmasking self-deception",
+          "emerging clarity"
+        ],
+        "vi": [
+          "tan dần mơ hồ",
+          "đối diện âu lo",
+          "thấu suốt ngụy tạo",
+          "sự rõ ràng dần hé lộ"
+        ]
+      }
+    }
+  },
+  {
+    "id": "20",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The Sun",
+      "vi": "Mặt Trời"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "clarity",
+          "vitality",
+          "genuine self-expression",
+          "wholeness"
+        ],
+        "vi": [
+          "sự sáng tỏ",
+          "sức sống dồi dào",
+          "sống thật với mình",
+          "sự trọn vẹn"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "temporary cloudiness",
+          "unrealized joy",
+          "overly optimistic blind spots",
+          "seeking validation"
+        ],
+        "vi": [
+          "u ám tạm thời",
+          "niềm vui chưa trọn",
+          "lạc quan thiếu thực tế",
+          "tìm kiếm công nhận"
+        ]
+      }
+    }
+  },
+  {
+    "id": "21",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "Judgement",
+      "vi": "Phán Xét"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "self-awakening",
+          "higher calling",
+          "forgiving past self",
+          "clarity of purpose"
+        ],
+        "vi": [
+          "thức tỉnh nội tâm",
+          "tiếng gọi sứ mệnh",
+          "tha thứ cho quá khứ",
+          "sáng rõ lý tưởng"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "harsh self-criticism",
+          "ignoring inner call",
+          "guilt",
+          "doubt in growth"
+        ],
+        "vi": [
+          "tự chỉ trích khắt khe",
+          "phớt lờ tiếng gọi lòng",
+          "mặc cảm tội lỗi",
+          "nghi ngại bản thân"
+        ]
+      }
+    }
+  },
+  {
+    "id": "22",
+    "arcana": "major",
+    "suit": null,
+    "name": {
+      "en": "The World",
+      "vi": "Thế Giới"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "integration",
+          "closure of cycles",
+          "wholeness",
+          "accomplishment"
+        ],
+        "vi": [
+          "sự tích hợp",
+          "khép lại chu kỳ",
+          "trọn vẹn viên mãn",
+          "thành tựu nội tâm"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "unfinished business",
+          "seeking closure outside",
+          "fear of completion",
+          "delayed next steps"
+        ],
+        "vi": [
+          "điều chưa trọn",
+          "tìm kiếm khép lại từ bên ngoài",
+          "sợ hoàn tất",
+          "trì hoãn bước tiếp"
+        ]
+      }
+    }
+  },
+  {
+    "id": "23",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Ace of Wands",
+      "vi": "Át Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "inspiration",
+          "creative impulse",
+          "initial spark",
+          "bold enthusiasm"
+        ],
+        "vi": [
+          "sự truyền cảm hứng",
+          "xung lực sáng tạo",
+          "tia lửa khởi phát",
+          "nhiệt huyết dấn thân"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "creative stagnation",
+          "lack of spark",
+          "scattered passion",
+          "self-doubt"
+        ],
+        "vi": [
+          "bế tắc ý tưởng",
+          "thiếu lửa nhiệt huyết",
+          "năng lượng phân tán",
+          "nghi ngờ cảm hứng"
+        ]
+      }
+    }
+  },
+  {
+    "id": "24",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Two of Wands",
+      "vi": "Hai Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "forward planning",
+          "stepping out",
+          "future vision",
+          "personal agency"
+        ],
+        "vi": [
+          "hoạch định tương lai",
+          "bước khỏi vùng an toàn",
+          "tầm nhìn phát triển",
+          "năng lực tự quyết"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "fear of the unknown",
+          "playing small",
+          "decision paralysis",
+          "hesitation"
+        ],
+        "vi": [
+          "sợ điều bất định",
+          "chọn sự an phận",
+          "tê liệt quyết định",
+          "do dự dấn bước"
+        ]
+      }
+    }
+  },
+  {
+    "id": "25",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Three of Wands",
+      "vi": "Ba Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "momentum",
+          "expanding horizons",
+          "progress",
+          "exploration"
+        ],
+        "vi": [
+          "đà phát triển",
+          "mở rộng góc nhìn",
+          "tiến triển tích cực",
+          "sẵn sàng khám phá"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "delayed results",
+          "impatience",
+          "feeling held back",
+          "short-sightedness"
+        ],
+        "vi": [
+          "kết quả chậm chạp",
+          "sốt ruột nóng vội",
+          "cảm giác bị kìm hãm",
+          "tầm nhìn hạn hẹp"
+        ]
+      }
+    }
+  },
+  {
+    "id": "26",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Four of Wands",
+      "vi": "Bốn Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "milestone celebration",
+          "sense of belonging",
+          "supportive community",
+          "stability"
+        ],
+        "vi": [
+          "cột mốc thành quả",
+          "cảm giác thuộc về",
+          "cộng đồng gắn kết",
+          "nền tảng bình an"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "tension at home",
+          "feeling unsettled",
+          "transient discord",
+          "neglecting roots"
+        ],
+        "vi": [
+          "bất an trong gia đình",
+          "cảm giác chông chênh",
+          "bất hòa tạm thời",
+          "xa rời cội nguồn"
+        ]
+      }
+    }
+  },
+  {
+    "id": "27",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Five of Wands",
+      "vi": "Năm Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "healthy competition",
+          "creative friction",
+          "constructive debate",
+          "testing ideas"
+        ],
+        "vi": [
+          "cạnh tranh lành mạnh",
+          "cọ xát ý tưởng",
+          "tranh biện xây dựng",
+          "thử lửa bản lĩnh"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "exhausting conflict",
+          "defensiveness",
+          "unnecessary rivalry",
+          "burnout"
+        ],
+        "vi": [
+          "tranh cãi vô ích",
+          "tâm lý phòng thủ",
+          "kèn cựa mệt mỏi",
+          "kiệt sức vì đối đầu"
+        ]
+      }
+    }
+  },
+  {
+    "id": "28",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Six of Wands",
+      "vi": "Sáu Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "self-acknowledgment",
+          "pride in progress",
+          "public recognition",
+          "confidence"
+        ],
+        "vi": [
+          "ghi nhận thành quả",
+          "tự hào về nỗ lực",
+          "sự công nhận xứng đáng",
+          "tự tin vững vàng"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "imposter syndrome",
+          "seeking external validation",
+          "fragile ego",
+          "quiet disappointment"
+        ],
+        "vi": [
+          "hội chứng kẻ giả mạo",
+          "thèm khát công nhận",
+          "tự ái mong manh",
+          "thất vọng âm thầm"
+        ]
+      }
+    }
+  },
+  {
+    "id": "29",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Seven of Wands",
+      "vi": "Bảy Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "standing ground",
+          "asserting boundaries",
+          "convictions",
+          "courage under pressure"
+        ],
+        "vi": [
+          "kiên định lập trường",
+          "giữ vững ranh giới",
+          "bảo vệ niềm tin",
+          "bản lĩnh trước thử thách"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "feeling overwhelmed",
+          "defensiveness",
+          "surrender to pressure",
+          "boundary fatigue"
+        ],
+        "vi": [
+          "quá tải áp lực",
+          "phòng thủ thái quá",
+          "đuối sức chịu đựng",
+          "ranh giới lung lay"
+        ]
+      }
+    }
+  },
+  {
+    "id": "30",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Eight of Wands",
+      "vi": "Tám Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "rapid alignment",
+          "swift momentum",
+          "clear communication",
+          "flow state"
+        ],
+        "vi": [
+          "nhịp điệu tăng tốc",
+          "đà tiến thuận lợi",
+          "thông điệp rõ ràng",
+          "trạng thái dòng chảy"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "miscommunication",
+          "frantic pace",
+          "impulsiveness",
+          "mental overwhelm"
+        ],
+        "vi": [
+          "giao tiếp đứt quãng",
+          "nhịp độ hỗn loạn",
+          "nóng vội hấp tấp",
+          "quá tải tâm trí"
+        ]
+      }
+    }
+  },
+  {
+    "id": "31",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Nine of Wands",
+      "vi": "Chín Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "resilience",
+          "perseverance",
+          "emotional grit",
+          "protecting energy"
+        ],
+        "vi": [
+          "sức bền kiên định",
+          "sự bền bỉ",
+          "nghị lực bền lòng",
+          "bảo toàn năng lượng"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "emotional exhaustion",
+          "hypervigilance",
+          "paranoia",
+          "close to giving up"
+        ],
+        "vi": [
+          "kiệt quệ tinh thần",
+          "cảnh giác quá mức",
+          "lo âu phòng bị",
+          "cận kề buông xuôi"
+        ]
+      }
+    }
+  },
+  {
+    "id": "32",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Ten of Wands",
+      "vi": "Mười Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "heavy responsibility",
+          "carrying burdens",
+          "reaching limits",
+          "dedication"
+        ],
+        "vi": [
+          "gánh nặng trách nhiệm",
+          "ôm đồm quá sức",
+          "chạm ngưỡng chịu đựng",
+          "sự tận tụy"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "unburdening",
+          "learning to delegate",
+          "releasing obligations",
+          "collapsing under strain"
+        ],
+        "vi": [
+          "trút bỏ gánh nặng",
+          "học cách sẻ chia",
+          "buông bỏ việc bao đồng",
+          "kiệt sức vì gồng mình"
+        ]
+      }
+    }
+  },
+  {
+    "id": "33",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Page of Wands",
+      "vi": "Tiểu Đồng Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "creative curiosity",
+          "eager discovery",
+          "enthusiastic exploration",
+          "playful spirit"
+        ],
+        "vi": [
+          "tò mò sáng tạo",
+          "háo hức khám phá",
+          "đam mê trải nghiệm",
+          "tinh thần tươi mới"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "unfocused enthusiasm",
+          "fear of starting",
+          "self-consciousness",
+          "fleeting interest"
+        ],
+        "vi": [
+          "nhiệt tình nhất thời",
+          "sợ hãi bắt đầu",
+          "e dè mất tự tin",
+          "hứng thú chóng tàn"
+        ]
+      }
+    }
+  },
+  {
+    "id": "34",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Knight of Wands",
+      "vi": "Hiệp Sĩ Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "bold initiative",
+          "spirited action",
+          "adventurous pursuit",
+          "dynamic passion"
+        ],
+        "vi": [
+          "tiên phong dấn bước",
+          "hành động quyết liệt",
+          "theo đuổi đam mê",
+          "năng lượng bứt phá"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "reckless haste",
+          "temper outbursts",
+          "erratic pursuit",
+          "burnout from speed"
+        ],
+        "vi": [
+          "hấp tấp liều lĩnh",
+          "dễ nổi nóng",
+          "thiếu định hướng dài lâu",
+          "kiệt sức vì đốt cháy giai đoạn"
+        ]
+      }
+    }
+  },
+  {
+    "id": "35",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "Queen of Wands",
+      "vi": "Hoàng Hậu Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "radiant self-assurance",
+          "social warmth",
+          "creative magnetism",
+          "genuine vitality"
+        ],
+        "vi": [
+          "tự tin tỏa sáng",
+          "ấm áp chân thành",
+          "sức hút sáng tạo",
+          "sức sống rạng rỡ"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "jealousy",
+          "demanding attention",
+          "drained vitality",
+          "insecurity masked as arrogance"
+        ],
+        "vi": [
+          "đố kỵ ngấm ngầm",
+          "đòi hỏi chú ý",
+          "cạn kiệt sinh khí",
+          "tự ti núp bóng tự cao"
+        ]
+      }
+    }
+  },
+  {
+    "id": "36",
+    "arcana": "minor",
+    "suit": "wands",
+    "name": {
+      "en": "King of Wands",
+      "vi": "Vua Gậy"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "inspirational leadership",
+          "strategic vision",
+          "empowerment",
+          "focused conviction"
+        ],
+        "vi": [
+          "lãnh đạo truyền cảm hứng",
+          "tầm nhìn chiến lược",
+          "trao quyền nâng đỡ",
+          "kiên định mục tiêu"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "domineering attitude",
+          "stubborn pride",
+          "unrealistic demands",
+          "impulsive rule"
+        ],
+        "vi": [
+          "chuyên quyền áp đặt",
+          "cái tôi cứng nhắc",
+          "đòi hỏi phi thực tế",
+          "độc đoán nóng nảy"
+        ]
+      }
+    }
+  },
+  {
+    "id": "37",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Ace of Cups",
+      "vi": "Át Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "emotional renewal",
+          "open heart",
+          "compassionate presence",
+          "intuitive receptivity"
+        ],
+        "vi": [
+          "tươi mới cảm xúc",
+          "mở rộng trái tim",
+          "thấu cảm sâu sắc",
+          "trực giác đón nhận"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "emotional exhaustion",
+          "suppressed feelings",
+          "self-neglect",
+          "creative emptiness"
+        ],
+        "vi": [
+          "cạn kiệt cảm xúc",
+          "kìm nén tình cảm",
+          "bỏ quên bản thân",
+          "trống rỗng tâm hồn"
+        ]
+      }
+    }
+  },
+  {
+    "id": "38",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Two of Cups",
+      "vi": "Hai Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "mutual empathy",
+          "authentic connection",
+          "reciprocal understanding",
+          "emotional vulnerability"
+        ],
+        "vi": [
+          "thấu hiểu hai chiều",
+          "gắn kết chân thành",
+          "tôn trọng lẫn nhau",
+          "chân thực mở lòng"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "miscommunication",
+          "unequal emotional investment",
+          "codependency",
+          "inner disharmony"
+        ],
+        "vi": [
+          "lệch nhịp cảm xúc",
+          "thiếu cân bằng cho nhận",
+          "phụ thuộc cảm xúc",
+          "bất an trong quan hệ"
+        ]
+      }
+    }
+  },
+  {
+    "id": "39",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Three of Cups",
+      "vi": "Ba Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "communal joy",
+          "supportive friendship",
+          "shared creative energy",
+          "uplifting celebration"
+        ],
+        "vi": [
+          "niềm vui sẻ chia",
+          "tình bạn nâng đỡ",
+          "năng lượng tích cực",
+          "ăn mừng thành tựu"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "gossip",
+          "social exhaustion",
+          "feeling excluded",
+          "over-indulgence"
+        ],
+        "vi": [
+          "thị phi đàm tiếu",
+          "kiệt sức vì xã giao",
+          "cảm giác bị cô lập",
+          "tiệc tùng quá đà"
+        ]
+      }
+    }
+  },
+  {
+    "id": "40",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Four of Cups",
+      "vi": "Bốn Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "contemplation",
+          "emotional pause",
+          "checking inner motivation",
+          "apathy awareness"
+        ],
+        "vi": [
+          "tĩnh tâm chiêm nghiệm",
+          "lắng lại cảm xúc",
+          "nhìn nhận động lực",
+          "nhận biết sự thờ ơ"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "emerging from withdrawal",
+          "seizing renewed interest",
+          "accepting support",
+          "fresh motivation"
+        ],
+        "vi": [
+          "bước khỏi sự khép kín",
+          "đón nhận cơ hội mới",
+          "cởi mở đón trợ giúp",
+          "tìm lại nhiệt tình"
+        ]
+      }
+    }
+  },
+  {
+    "id": "41",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Five of Cups",
+      "vi": "Năm Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "processing grief",
+          "honoring sorrow",
+          "emotional release",
+          "learning from setback"
+        ],
+        "vi": [
+          "đón nhận nỗi buồn",
+          "tôn trọng cảm xúc đau",
+          "giải tỏa tâm tư",
+          "bài học từ mất mát"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "acceptance of reality",
+          "healing perspective",
+          "turning toward hope",
+          "moving beyond regrets"
+        ],
+        "vi": [
+          "chấp nhận thực tại",
+          "góc nhìn chữa lành",
+          "hướng về hy vọng",
+          "gác lại tiếc nuối"
+        ]
+      }
+    }
+  },
+  {
+    "id": "42",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Six of Cups",
+      "vi": "Sáu Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "inner child healing",
+          "comforting memories",
+          "innocent joy",
+          "gentle kindness"
+        ],
+        "vi": [
+          "chữa lành đứa trẻ bên trong",
+          "ký ức xoa dịu",
+          "niềm vui thuần khiết",
+          "ân cần dịu dàng"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "living in the past",
+          "resisting maturity",
+          "unhealed childhood wounds",
+          "rose-tinted nostalgia"
+        ],
+        "vi": [
+          "mắc kẹt trong quá khứ",
+          "né tránh trưởng thành",
+          "tổn thương tuổi thơ chưa lành",
+          "hoài niệm mù quáng"
+        ]
+      }
+    }
+  },
+  {
+    "id": "43",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Seven of Cups",
+      "vi": "Bảy Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "exploring possibilities",
+          "creative daydreaming",
+          "clarifying true desires",
+          "mindful choices"
+        ],
+        "vi": [
+          "khám phá tiềm năng",
+          "trí tưởng tượng phong phú",
+          "làm rõ mong muốn thật",
+          "cân nhắc lựa chọn"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "decision paralysis",
+          "waking from illusions",
+          "overwhelming options",
+          "reality check"
+        ],
+        "vi": [
+          "tê liệt vì nhiều lựa chọn",
+          "tỉnh mộng ảo tưởng",
+          "phân tâm quá mức",
+          "đối diện thực tế"
+        ]
+      }
+    }
+  },
+  {
+    "id": "44",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Eight of Cups",
+      "vi": "Tám Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "conscious walking away",
+          "seeking deeper meaning",
+          "leaving what no longer serves",
+          "spiritual quest"
+        ],
+        "vi": [
+          "chủ động buông bỏ",
+          "tìm kiếm ý nghĩa sâu sắc hơn",
+          "rời đi điều không còn phù hợp",
+          "hành trình thức tỉnh"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "fear of moving on",
+          "clinging to empty situations",
+          "staying out of habit",
+          "drifting aimlessly"
+        ],
+        "vi": [
+          "sợ bước tiếp",
+          "bám víu điều vô nghĩa",
+          "ở lại theo quán tính",
+          "trôi dạt vô định"
+        ]
+      }
+    }
+  },
+  {
+    "id": "45",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Nine of Cups",
+      "vi": "Chín Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "emotional contentment",
+          "gratitude",
+          "authentic satisfaction",
+          "inner peace"
+        ],
+        "vi": [
+          "hài lòng cảm xúc",
+          "lòng biết ơn",
+          "mãn nguyện đích thực",
+          "an yên trong lòng"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "superficial pleasure",
+          "unfulfilled craving",
+          "smug complacency",
+          "emotional emptiness"
+        ],
+        "vi": [
+          "thỏa mãn bề nổi",
+          "khao khát chưa nguôi",
+          "tự mãn tự đắc",
+          "trống trải bên trong"
+        ]
+      }
+    }
+  },
+  {
+    "id": "46",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Ten of Cups",
+      "vi": "Mười Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "emotional fulfillment",
+          "shared harmony",
+          "lasting peace",
+          "collective emotional safety"
+        ],
+        "vi": [
+          "trọn vẹn tình cảm",
+          "hòa thuận an vui",
+          "bình yên bền vững",
+          "cảm giác an toàn chung"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "domestic friction",
+          "unmet family expectations",
+          "idealized perfectionism",
+          "suppressed conflicts"
+        ],
+        "vi": [
+          "mâu thuẫn gia đình",
+          "kỳ vọng đè nặng",
+          "chủ nghĩa hoàn hảo ảo",
+          "bất hòa âm ỉ"
+        ]
+      }
+    }
+  },
+  {
+    "id": "47",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Page of Cups",
+      "vi": "Tiểu Đồng Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "emotional sensitivity",
+          "creative playfulness",
+          "open curiosity",
+          "intuitive whispers"
+        ],
+        "vi": [
+          "nhạy cảm tinh tế",
+          "sáng tạo hồn nhiên",
+          "tò mò cởi mở",
+          "lắng nghe trực giác"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "emotional over-reactivity",
+          "escapism into fantasy",
+          "insecurity",
+          "fragile feelings"
+        ],
+        "vi": [
+          "dễ xúc động quá đà",
+          "trốn vào mộng tưởng",
+          "tự ti bấp bênh",
+          "tâm hồn dễ tổn thương"
+        ]
+      }
+    }
+  },
+  {
+    "id": "48",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Knight of Cups",
+      "vi": "Hiệp Sĩ Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "romantic vision",
+          "idealism",
+          "compassionate action",
+          "pursuing meaningful passions"
+        ],
+        "vi": [
+          "lý tưởng hóa chân thành",
+          "giàu cảm xúc",
+          "hành động vì yêu thương",
+          "theo đuổi đam mê ý nghĩa"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "emotional moodiness",
+          "impractical daydreams",
+          "passive-aggressive withdrawal",
+          "ungrounded fantasy"
+        ],
+        "vi": [
+          "tâm trạng thất thường",
+          "mộng mơ viển vông",
+          "hờn dỗi thụ động",
+          "thiếu thực tế"
+        ]
+      }
+    }
+  },
+  {
+    "id": "49",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "Queen of Cups",
+      "vi": "Hoàng Hậu Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "emotional intelligence",
+          "deep empathy",
+          "compassionate boundaries",
+          "calm self-soothing"
+        ],
+        "vi": [
+          "trí tuệ cảm xúc",
+          "thấu cảm sâu sắc",
+          "ranh giới yêu thương",
+          "tĩnh tại tự vỗ về"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "emotional codependency",
+          "martyrdom",
+          "absorbing other pain",
+          "mood swings"
+        ],
+        "vi": [
+          "lệch lạc phụ thuộc",
+          "tâm lý hy sinh thái quá",
+          "bị quá tải cảm xúc người khác",
+          "thất thường"
+        ]
+      }
+    }
+  },
+  {
+    "id": "50",
+    "arcana": "minor",
+    "suit": "cups",
+    "name": {
+      "en": "King of Cups",
+      "vi": "Vua Ly"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "emotional equilibrium",
+          "balanced compassion",
+          "calm under storm",
+          "wise counsel"
+        ],
+        "vi": [
+          "cân bằng nội tâm",
+          "thấu cảm sáng suốt",
+          "điềm tĩnh trước sóng gió",
+          "điểm tựa tinh thần"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "emotional manipulation",
+          "cold detachment",
+          "suppressed volcano",
+          "emotional volatility"
+        ],
+        "vi": [
+          "thao túng cảm xúc",
+          "lạnh lùng xa cách",
+          "kìm nén bùng nổ",
+          "tâm lý bất ổn định"
+        ]
+      }
+    }
+  },
+  {
+    "id": "51",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Ace of Swords",
+      "vi": "Át Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "mental clarity",
+          "breakthrough insight",
+          "cutting through illusions",
+          "truthful perspective"
+        ],
+        "vi": [
+          "tâm trí sáng suốt",
+          "nhận thức đột phá",
+          "xuyên phá ảo tưởng",
+          "nhìn thẳng sự thật"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "mental fog",
+          "harsh words",
+          "clouded judgment",
+          "cognitive confusion"
+        ],
+        "vi": [
+          "tâm trí u mê",
+          "lời lẽ sát thương",
+          "nhận định sai lệch",
+          "bối rối nhận thức"
+        ]
+      }
+    }
+  },
+  {
+    "id": "52",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Two of Swords",
+      "vi": "Hai Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "difficult choices",
+          "weighing perspectives",
+          "temporary impasse",
+          "seeking mental balance"
+        ],
+        "vi": [
+          "lựa chọn nan giải",
+          "cân nhắc các chiều",
+          "thế bế tắc tạm thời",
+          "tìm kiếm thăng bằng"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "information overload",
+          "forced decision",
+          "breaking stalemate",
+          "emotional truth surfacing"
+        ],
+        "vi": [
+          "quá tải thông tin",
+          "bị ép đưa ra quyết định",
+          "phá vỡ bế tắc",
+          "sự thật cảm xúc bộc lộ"
+        ]
+      }
+    }
+  },
+  {
+    "id": "53",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Three of Swords",
+      "vi": "Ba Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "painful realization",
+          "emotional release",
+          "healing from sorrow",
+          "confronting heartache"
+        ],
+        "vi": [
+          "sự thật cay đắng",
+          "giải phóng tổn thương",
+          "chữa lành nỗi đau",
+          "đối diện tan vỡ"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "repressed pain",
+          "holding onto resentment",
+          "self-forgiveness",
+          "beginning recovery"
+        ],
+        "vi": [
+          "kìm nén nỗi đau",
+          "ôm giữ oán giận",
+          "tha thứ cho chính mình",
+          "khởi đầu hồi phục"
+        ]
+      }
+    }
+  },
+  {
+    "id": "54",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Four of Swords",
+      "vi": "Bốn Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "mental rest",
+          "contemplative retreat",
+          "recharging energy",
+          "peaceful sanctuary"
+        ],
+        "vi": [
+          "nghỉ ngơi tâm trí",
+          "lui về chiêm nghiệm",
+          "tái nạp năng lượng",
+          "tĩnh dưỡng an yên"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "mental burnout",
+          "restless agitation",
+          "premature return to stress",
+          "sleep exhaustion"
+        ],
+        "vi": [
+          "kiệt quệ tinh thần",
+          "bồn chồn đứng ngồi không yên",
+          "quay lại áp lực quá sớm",
+          "mất ngủ lo âu"
+        ]
+      }
+    }
+  },
+  {
+    "id": "55",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Five of Swords",
+      "vi": "Năm Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "hollow victory",
+          "choosing battles wisely",
+          "recognizing ego conflicts",
+          "accepting losses"
+        ],
+        "vi": [
+          "chiến thắng vô nghĩa",
+          "chọn đúng cuộc tranh đấu",
+          "nhận diện xung đột bản ngã",
+          "chấp nhận thua thiệt"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "resolving hostilities",
+          "seeking reconciliation",
+          "letting go of grudge",
+          "ending needless fight"
+        ],
+        "vi": [
+          "hóa giải thù hằn",
+          "hướng tới hòa giải",
+          "buông bỏ hận thù",
+          "chấm dứt đấu đá vô bổ"
+        ]
+      }
+    }
+  },
+  {
+    "id": "56",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Six of Swords",
+      "vi": "Sáu Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "mental transition",
+          "moving toward calm",
+          "leaving turbulence behind",
+          "gradual recovery"
+        ],
+        "vi": [
+          "chuyển dịch tâm trí",
+          "hướng về bến đỗ bình yên",
+          "rời xa sóng gió",
+          "dần dần phục hồi"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "emotional baggage",
+          "resisting transition",
+          "unresolved issues following",
+          "trapped in storm"
+        ],
+        "vi": [
+          "gánh nặng quá khứ",
+          "kháng cự chuyến đi",
+          "vướng bận chưa dứt",
+          "kẹt giữa giông bão"
+        ]
+      }
+    }
+  },
+  {
+    "id": "57",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Seven of Swords",
+      "vi": "Bảy Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "strategic tact",
+          "self-preservation",
+          "independent strategy",
+          "discretion"
+        ],
+        "vi": [
+          "tính toán chiến lược",
+          "tự bảo toàn năng lượng",
+          "kế sách độc lập",
+          "sự thận trọng kín đáo"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "imposter feelings",
+          "revealing hidden truth",
+          "coming clean",
+          "overcoming deceit"
+        ],
+        "vi": [
+          "cảm giác giả dối",
+          "bộc lộ sự thật ẩn giấu",
+          "thành thật giãi bày",
+          "thoát khỏi dối lừa"
+        ]
+      }
+    }
+  },
+  {
+    "id": "58",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Eight of Swords",
+      "vi": "Tám Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "self-imposed limitations",
+          "feeling trapped",
+          "blind spots",
+          "perceived powerlessness"
+        ],
+        "vi": [
+          "tự trói buộc mình",
+          "cảm giác bế tắc",
+          "điểm mù nhận thức",
+          "ngộ nhận bất lực"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "breaking mental cages",
+          "recognizing freedom",
+          "opening eyes to options",
+          "reclaiming power"
+        ],
+        "vi": [
+          "phá vỡ cũi sắt tâm trí",
+          "nhận ra tự do",
+          "mở mắt thấy lối thoát",
+          "lấy lại quyền chủ động"
+        ]
+      }
+    }
+  },
+  {
+    "id": "59",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Nine of Swords",
+      "vi": "Chín Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "anxiety spiral",
+          "catastrophizing",
+          "nocturnal worry",
+          "vulnerability of mind"
+        ],
+        "vi": [
+          "vòng xoáy âu lo",
+          "phóng đại nỗi sợ",
+          "trăn trở đêm dài",
+          "tâm trí yếu mềm"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "releasing irrational fears",
+          "reaching out for help",
+          "light in dark",
+          "healing anxiety"
+        ],
+        "vi": [
+          "giải tỏa nỗi sợ vô căn cứ",
+          "tìm kiếm sự trợ giúp",
+          "ánh sáng nơi tăm tối",
+          "xoa dịu âu lo"
+        ]
+      }
+    }
+  },
+  {
+    "id": "60",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Ten of Swords",
+      "vi": "Mười Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "rock bottom",
+          "dramatic closure",
+          "inevitable ending",
+          "dawn after dark"
+        ],
+        "vi": [
+          "chạm đáy nỗi đau",
+          "khép lại trọn vẹn",
+          "kết thúc không thể tránh",
+          "bình minh sau đêm đen"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "slow recovery",
+          "resisting closure",
+          "fear of relapse",
+          "rebuilding from ashes"
+        ],
+        "vi": [
+          "chậm rãi gượng dậy",
+          "kháng cự khép lại",
+          "sợ tổn thương tái phát",
+          "tái sinh từ tro tàn"
+        ]
+      }
+    }
+  },
+  {
+    "id": "61",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Page of Swords",
+      "vi": "Tiểu Đồng Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "inquisitive mind",
+          "intellectual curiosity",
+          "speaking truth",
+          "thirst for knowledge"
+        ],
+        "vi": [
+          "óc tò mò sắc sảo",
+          "ham học hỏi",
+          "dám nói thật",
+          "khao khát tri thức"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "defensive cynicism",
+          "gossip",
+          "sharp-tongued reaction",
+          "all talk no action"
+        ],
+        "vi": [
+          "hoài nghi phòng thủ",
+          "soi mói đàm tiếu",
+          "lời nói móc mỉa",
+          "nói nhiều làm ít"
+        ]
+      }
+    }
+  },
+  {
+    "id": "62",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Knight of Swords",
+      "vi": "Hiệp Sĩ Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "decisive action",
+          "assertive directness",
+          "championing truth",
+          "fast intellect"
+        ],
+        "vi": [
+          "hành động quyết đoán",
+          "thẳng thắn dứt khoát",
+          "phụng sự chân lý",
+          "tư duy nhạy bén"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "aggressive bluntness",
+          "impulsive arrogance",
+          "bulldozing others",
+          "mental tunnel vision"
+        ],
+        "vi": [
+          "thô lỗ hung hăng",
+          "ngạo mạn bốc đồng",
+          "lấn át người khác",
+          "góc nhìn hạn hẹp"
+        ]
+      }
+    }
+  },
+  {
+    "id": "63",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "Queen of Swords",
+      "vi": "Hoàng Hậu Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "discernment",
+          "clear boundaries",
+          "honest directness",
+          "independent intellect"
+        ],
+        "vi": [
+          "sự sáng suốt thấu đáo",
+          "ranh giới rõ ràng",
+          "chân thực bộc trực",
+          "độc lập tư duy"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "cold severity",
+          "bitter cynicism",
+          "emotional numbness",
+          "overly critical attitude"
+        ],
+        "vi": [
+          "lạnh lùng cay nghiệt",
+          "hoài nghi cay đắng",
+          "chai sạn cảm xúc",
+          "xét nét khắt khe"
+        ]
+      }
+    }
+  },
+  {
+    "id": "64",
+    "arcana": "minor",
+    "suit": "swords",
+    "name": {
+      "en": "King of Swords",
+      "vi": "Vua Kiếm"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "intellectual mastery",
+          "ethical authority",
+          "objectivity",
+          "clear communication"
+        ],
+        "vi": [
+          "làm chủ lý trí",
+          "uy quyền đạo đức",
+          "tính khách quan",
+          "diễn đạt sáng rõ"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "tyrannical intellect",
+          "dogmatic rigidity",
+          "emotional suppression",
+          "weaponized logic"
+        ],
+        "vi": [
+          "lý trí độc đoán",
+          "bảo thủ giáo điều",
+          "kìm nén cảm xúc",
+          "ngụy biện áp đặt"
+        ]
+      }
+    }
+  },
+  {
+    "id": "65",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Ace of Pentacles",
+      "vi": "Át Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "grounded opportunity",
+          "tangible potential",
+          "practical seeds",
+          "bodily awareness"
+        ],
+        "vi": [
+          "cơ hội thực tế",
+          "tiềm năng hữu hình",
+          "hạt mầm cụ thể",
+          "kết nối thân thể"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "missed practical chance",
+          "financial insecurity",
+          "impatience for results",
+          "poor planning"
+        ],
+        "vi": [
+          "bỏ lỡ cơ hội thực tế",
+          "bất an tài chính",
+          "nóng vội đốt cháy giai đoạn",
+          "thiếu kế hoạch thực tế"
+        ]
+      }
+    }
+  },
+  {
+    "id": "66",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Two of Pentacles",
+      "vi": "Hai Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "dynamic balancing",
+          "adaptability",
+          "managing priorities",
+          "graceful flow"
+        ],
+        "vi": [
+          "cân bằng linh hoạt",
+          "khả năng thích ứng",
+          "quản lý thứ tự ưu tiên",
+          "uyển chuyển xoay sở"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "dropping balls",
+          "overextension",
+          "financial disorganization",
+          "overwhelming multitasking"
+        ],
+        "vi": [
+          "ôm đồm quá tải",
+          "mất cân bằng",
+          "rối loạn tài chính",
+          "phân tâm đa nhiệm"
+        ]
+      }
+    }
+  },
+  {
+    "id": "67",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Three of Pentacles",
+      "vi": "Ba Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "collaborative craft",
+          "teamwork",
+          "honing skills",
+          "constructive feedback"
+        ],
+        "vi": [
+          "hợp tác chuyên môn",
+          "tinh thần đồng đội",
+          "rèn giũa tay nghề",
+          "góp ý xây dựng"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "working in silos",
+          "misalignment",
+          "lack of appreciation",
+          "resistance to feedback"
+        ],
+        "vi": [
+          "làm việc rời rạc",
+          "bất đồng quan điểm",
+          "thiếu sự công nhận",
+          "ngại tiếp thu góp ý"
+        ]
+      }
+    }
+  },
+  {
+    "id": "68",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Four of Pentacles",
+      "vi": "Bốn Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "financial stability",
+          "security",
+          "setting resource limits",
+          "mindful preservation"
+        ],
+        "vi": [
+          "ổn định tài chính",
+          "cảm giác an toàn",
+          "quản lý nguồn lực",
+          "gìn giữ cẩn trọng"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "scarcity mindset",
+          "hoarding",
+          "fear of vulnerability",
+          "clinging to control"
+        ],
+        "vi": [
+          "tâm lý khan hiếm",
+          "tích trữ sợ hãi",
+          "e ngại sẻ chia",
+          "bám víu kiểm soát"
+        ]
+      }
+    }
+  },
+  {
+    "id": "69",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Five of Pentacles",
+      "vi": "Năm Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "facing scarcity",
+          "feeling left out",
+          "temporary hardship",
+          "seeking shelter"
+        ],
+        "vi": [
+          "đối diện thiếu thốn",
+          "cảm giác bị bỏ rơi",
+          "khó khăn tạm thời",
+          "tìm kiếm nơi nương tựa"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "recovery from hardship",
+          "welcoming assistance",
+          "shifting from lack to abundance",
+          "renewed hope"
+        ],
+        "vi": [
+          "phục hồi sau gian khó",
+          "đón nhận giúp đỡ",
+          "chuyển biến tâm thức",
+          "hy vọng nhen nhóm"
+        ]
+      }
+    }
+  },
+  {
+    "id": "70",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Six of Pentacles",
+      "vi": "Sáu Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "generous reciprocity",
+          "mutual aid",
+          "sharing resources",
+          "healthy giving and receiving"
+        ],
+        "vi": [
+          "cho nhận cân bằng",
+          "tương trợ lẫn nhau",
+          "sẻ chia nguồn lực",
+          "hào phóng lành mạnh"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "one-sided dynamic",
+          "strings attached",
+          "power imbalances",
+          "financial dependence"
+        ],
+        "vi": [
+          "quan hệ một chiều",
+          "ban ơn kèm điều kiện",
+          "bất bình đẳng quyền lực",
+          "lệ thuộc tài chính"
+        ]
+      }
+    }
+  },
+  {
+    "id": "71",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Seven of Pentacles",
+      "vi": "Bảy Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "patient investment",
+          "assessing progress",
+          "long-term perspective",
+          "cultivating growth"
+        ],
+        "vi": [
+          "kiên nhẫn vun đắp",
+          "đánh giá tiến độ",
+          "tầm nhìn dài hạn",
+          "nuôi dưỡng sự trưởng thành"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "restlessness with slow results",
+          "doubting investments",
+          "giving up too early",
+          "misdirected effort"
+        ],
+        "vi": [
+          "sốt ruột với kết quả chậm",
+          "nghi ngờ công sức bỏ ra",
+          "nản lòng bỏ cuộc sớm",
+          "nỗ lực lệch hướng"
+        ]
+      }
+    }
+  },
+  {
+    "id": "72",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Eight of Pentacles",
+      "vi": "Tám Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "dedicated craftsmanship",
+          "deliberate practice",
+          "continuous improvement",
+          "flow of work"
+        ],
+        "vi": [
+          "tận tâm rèn luyện",
+          "chuyên tâm trau dồi",
+          "kiên trì cải tiến",
+          "say mê lao động"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "perfectionism paralysis",
+          "cutting corners",
+          "repetitive burnout",
+          "lack of engagement"
+        ],
+        "vi": [
+          "áp lực cầu toàn",
+          "làm ăn cẩu thả",
+          "nhàm chán kiệt sức",
+          "mất đi cảm hứng với nghề"
+        ]
+      }
+    }
+  },
+  {
+    "id": "73",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Nine of Pentacles",
+      "vi": "Chín Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "self-sufficiency",
+          "savoring fruits of labor",
+          "healthy autonomy",
+          "gracious abundance"
+        ],
+        "vi": [
+          "tự chủ độc lập",
+          "tận hưởng thành quả lao động",
+          "an nhàn tự tại",
+          "sung túc bền vững"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "overworking at personal cost",
+          "loneliness in success",
+          "superficial luxury",
+          "imposter doubts"
+        ],
+        "vi": [
+          "tham công tiếc việc",
+          "cô đơn trên đỉnh thành công",
+          "hào nhoáng bề ngoài",
+          "nghi ngại năng lực"
+        ]
+      }
+    }
+  },
+  {
+    "id": "74",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Ten of Pentacles",
+      "vi": "Mười Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "lasting legacy",
+          "intergenerational stability",
+          "deep roots",
+          "community wealth"
+        ],
+        "vi": [
+          "di sản lâu bền",
+          "nền tảng vững chãi",
+          "cội rễ sâu dày",
+          "sung túc gia tộc"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "family financial tension",
+          "burdened by traditions",
+          "precarious foundations",
+          "legacy conflict"
+        ],
+        "vi": [
+          "bất hòa tiền tài gia đình",
+          "gánh nặng truyền thống",
+          "nền tảng lung lay",
+          "xung đột thừa kế"
+        ]
+      }
+    }
+  },
+  {
+    "id": "75",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Page of Pentacles",
+      "vi": "Tiểu Đồng Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "eager pragmatism",
+          "learning practical skills",
+          "ambitious curiosity",
+          "grounded focus"
+        ],
+        "vi": [
+          "thực tế ham học",
+          "tiếp thu kỹ năng mới",
+          "kiên định học hỏi",
+          "nền tảng vững vàng"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "procrastination",
+          "lack of commitment",
+          "daydreaming without action",
+          "fear of failure"
+        ],
+        "vi": [
+          "trì hoãn không hành động",
+          "thiếu cam kết",
+          "mộng mơ thiếu thực tế",
+          "sợ vấp ngã"
+        ]
+      }
+    }
+  },
+  {
+    "id": "76",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Knight of Pentacles",
+      "vi": "Hiệp Sĩ Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "methodical perseverance",
+          "unwavering reliability",
+          "disciplined routine",
+          "steady execution"
+        ],
+        "vi": [
+          "bền bỉ có phương pháp",
+          "đáng tin cậy vững chắc",
+          "kỷ luật kiên trì",
+          "thực thi chắc chắn"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "stubborn rigidity",
+          "perfectionistic delay",
+          "feeling stuck in routine",
+          "workaholic exhaustion"
+        ],
+        "vi": [
+          "cứng nhắc bảo thủ",
+          "cầu toàn chậm trễ",
+          "mắc kẹt trong lối mòn",
+          "kiệt sức vì cuồng việc"
+        ]
+      }
+    }
+  },
+  {
+    "id": "77",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "Queen of Pentacles",
+      "vi": "Hoàng Hậu Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "grounded nurturing",
+          "practical wisdom",
+          "resource stewardship",
+          "hospitable comfort"
+        ],
+        "vi": [
+          "ấm áp thực tế",
+          "trí tuệ đời sống",
+          "chu toàn quản lý",
+          "bình an ấm cúng"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "domestic burnout",
+          "neglect of inner life",
+          "material anxiety",
+          "over-functioning for others"
+        ],
+        "vi": [
+          "kiệt sức việc nhà",
+          "bỏ quên đời sống tinh thần",
+          "lo âu vật chất",
+          "gánh vác hộ người khác"
+        ]
+      }
+    }
+  },
+  {
+    "id": "78",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "name": {
+      "en": "King of Pentacles",
+      "vi": "Vua Xu"
+    },
+    "keywords": {
+      "upright": {
+        "en": [
+          "material stewardship",
+          "entrepreneurial stability",
+          "generous provider",
+          "tangible success"
+        ],
+        "vi": [
+          "làm chủ thành quả",
+          "vững vàng cơ nghiệp",
+          "chỗ dựa hào phóng",
+          "thành công thực tế"
+        ]
+      },
+      "reversed": {
+        "en": [
+          "greed and materialism",
+          "stubborn inflexibility",
+          "measuring worth by status",
+          "reckless speculation"
+        ],
+        "vi": [
+          "tham lam vật chất",
+          "độc đoán bảo thủ",
+          "đo giá trị bằng tiền tài",
+          "đầu cơ mù quáng"
+        ]
+      }
+    }
+  }
+]
